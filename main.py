@@ -1,4 +1,4 @@
-
+print("start")
 def main():
     pass
 
